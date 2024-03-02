@@ -1,4 +1,4 @@
-### Hi there 👋
+### Legal Yerli ve Yabancı kanal listeleri
 
 <!--
 **Haskobay/Haskobay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
